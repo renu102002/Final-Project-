@@ -4,6 +4,7 @@
 using namespace std;
 
 // Define a class for users
+//asset tracking
 class User {
 private:
     string name;
